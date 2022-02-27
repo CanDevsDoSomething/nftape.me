@@ -291,6 +291,10 @@ export const collections = {
     DE: 'Naked%20Meerkats%20Beach%20Club',
     ME: 'naked_meerkats_beach_club',
   },
+  '9BKWqDHfHZh9j39xakYVMdr6hXmCLHH5VfCpeq2idU9L': {
+    SA: 'unquniverse',
+    ME: 'unq_universe',
+  },  
   '5grvMeoBqv5ZdHq9JMy5RrxLPNAt1nzc9cpqYWFUwizz': {
     SA: 'portals',
     DE: 'Portals',
